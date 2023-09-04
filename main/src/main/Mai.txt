@@ -1,0 +1,32 @@
+[
+Citizenes{My_Name= mai, age= 12, adress= a6, Id= 123, doses= [DosesPerson{Kind= ChAdOx , Where= Elsafwaa BaneiSweef, When= 20/2/2022,
+ health: Health{Professionis= 12 name= mai ID= 123}}
+, DosesPerson{Kind= BVT162B2 , Where= shopra, When= 20/2/2022,
+ health: Health{Professionis= 2 name= nona ID= 127}}
+]}
+, 
+Citizenes{My_Name= naglaa, age= 55, adress= a6, Id= 2051711078, doses= []}
+, 
+Citizenes{My_Name= bebo , age= 12, adress= a6, Id= 2051711934, doses= [DosesPerson{Kind= BVT162B2 , Where= shopra, When= 20/2/2022,
+ health: Health{Professionis= 2 name= nona ID= 127}}
+]}
+, 
+Citizenes{My_Name= kholoud, age= 18, adress= a6, Id= 2222222, doses= [DosesPerson{Kind= Mayo Clinic , Where=  matareya hospital, When= 22/2/2020,
+ health: Health{Professionis= 22 name= doaa ID= 123}}
+]}
+, 
+Citizenes{My_Name= doaa, age= 19, adress= a6, Id= 33, doses= [DosesPerson{Kind= BVT162B2 , Where= shopra, When= 20/2/2022,
+ health: Health{Professionis= 2 name= nona ID= 127}}
+, DosesPerson{Kind= Mayo Clinic , Where=  matareya hospital, When= 22/2/2020,
+ health: Health{Professionis= 22 name= doaa ID= 123}}
+]}
+, 
+Citizenes{My_Name= gamal, age= 12, adress= a6, Id= 33333333, doses= [DosesPerson{Kind= ChAdOx , Where= Elsafwaa BaneiSweef, When= 20/2/2022,
+ health: Health{Professionis= 12 name= mai ID= 123}}
+, DosesPerson{Kind= BVT162B2 , Where= shopra, When= 20/2/2022,
+ health: Health{Professionis= 2 name= nona ID= 127}}
+]}
+, 
+Citizenes{My_Name= manar, age= 20, adress= a6, Id= 555555, doses= []}
+]
+ full vaccinated Citizenes = 3
